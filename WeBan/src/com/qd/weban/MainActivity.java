@@ -44,6 +44,8 @@ public class MainActivity extends FragmentActivity {
 		viewPager.setAdapter(adapter);
 		
 //		viewPager.setCurrentItem(1);
+        
+        // test git.
 
 	}
 
