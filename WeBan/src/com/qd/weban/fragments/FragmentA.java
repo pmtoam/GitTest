@@ -8,6 +8,15 @@ import android.view.ViewGroup;
 
 import com.qd.weban.R;
 
+/**
+ * 
+ * @author wangyuexing
+ * 
+ * @des 闪开 我要开发了。
+ * 
+ * @since 2016-05-15
+ *
+ */
 public class FragmentA extends Fragment {
 
 	@Override
@@ -15,7 +24,6 @@ public class FragmentA extends Fragment {
 			Bundle savedInstanceState) {
 		View view = inflater.inflate(R.layout.fragment_a, null);
 		
-//		view.findViewById(id)
 		return view;
 	}
 
